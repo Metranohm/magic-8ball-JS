@@ -1,9 +1,15 @@
+* {
+  
+}
+
 .container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 100vh;
+  background: linear-gradient(to right, #e86d2a, #001eff);
+  margin: 0 auto;
 }
 
 h1 {

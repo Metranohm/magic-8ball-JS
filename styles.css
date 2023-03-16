@@ -8,7 +8,7 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: linear-gradient(to right, #e86d2a, #001eff);
+  background: linear-gradient(to right, #dbfd42, hsl(264, 100%, 42%));
   margin: 0 auto;
 }
 
